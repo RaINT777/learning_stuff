@@ -1,0 +1,8 @@
+PLEASE READ THIS !!!
+IF YOU WANT TO OPEN IMG INTO ADOBE OR COREL AND GET ERROR HERE TO FIX IT:
+
+1.Select Picture
+2.Right Click > Open with Paint 
+3.Then save as the images into JPEG
+4.Try open the Images into Adobe Ps or Corel
+5.Done!
