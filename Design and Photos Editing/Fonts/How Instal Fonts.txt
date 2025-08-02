@@ -1,0 +1,11 @@
+This fonts i got dawnload from google fonts,
+okay how installing the fonts for design:
+
+1. Exctract the file
+2. then install
+3. Move all files (.ttf file) into one folder or you can create a new folder then paste it there [you can select it use Ctrl+Shift/A to select]
+4. "Ctrl + A" to select all fonts then right click 
+5. Instal
+6. Done
+
+Source fonts : Google Fonts
