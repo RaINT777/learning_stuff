@@ -1,13 +1,16 @@
 # 📊 Data Analyst Portfolio – Excel Projects
 
 This repository showcases my work as a **Data Analyst** using **Microsoft Excel**.  
-It highlights essential skills such as data cleaning, filtering, sorting, and creating interactive reports.
+It highlights essential skills such as **data cleaning, filtering, sorting**, and **creating interactive reports**.
 
 ---
 
 ## 📌 Project Preview
 
-![Portfolio Preview](/DataAnalystExcel/imgs/Preview01.jpg)
+<p align="center">
+  <img src="/DataAnalystExcel/imgs/DataSalesReport.jpg" width="48%">
+  <img src="/DataAnalystExcel/imgs/Pivot.jpg" width="48%">
+</p>
 
 ---
 
@@ -16,3 +19,5 @@ It highlights essential skills such as data cleaning, filtering, sorting, and cr
 - **Data Filtering & Sorting** – Organizing and segmenting data for analysis.
 - **Data Analysis** – Using formulas, pivot tables, and charts to extract insights.
 - **Interactive Reporting** – Building dashboards with slicers and dynamic visuals.
+
+---
