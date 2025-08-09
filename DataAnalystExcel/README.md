@@ -8,8 +8,8 @@ It highlights essential skills such as **data cleaning, filtering, sorting**, an
 ## 📌 Project Preview
 
 <p align="center">
-  <img src="/DataAnalystExcel/imgs/DataSalesReport.jpg" width="48%">
-  <img src="/DataAnalystExcel/imgs/Pivot.jpg" width="48%">
+  <img src="/DataAnalystExcel/imgs/DataSalesReport.jpg" width="300">
+  <img src="/DataAnalystExcel/imgs/Pivot.jpg" width="300">
 </p>
 
 ---
